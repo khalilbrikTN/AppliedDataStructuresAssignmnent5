@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/khalil/Desktop/courses/applied_data_structures/assign4/cmake-build-debug"
+			"value" : "/home/khalil/Desktop/courses/applied_data_structures/AppliedDataStructuresAssignmnent5/assign4/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -154,7 +154,7 @@
 					"value" : "CXX compiler"
 				}
 			],
-			"type" : "STRING",
+			"type" : "FILEPATH",
 			"value" : "/usr/bin/c++"
 		},
 		{
@@ -282,7 +282,7 @@
 					"value" : "C compiler"
 				}
 			],
-			"type" : "STRING",
+			"type" : "FILEPATH",
 			"value" : "/usr/bin/cc"
 		},
 		{
@@ -543,7 +543,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/khalil/Desktop/courses/applied_data_structures/assign4/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/khalil/Desktop/courses/applied_data_structures/AppliedDataStructuresAssignmnent5/assign4/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -603,7 +603,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/khalil/Desktop/courses/applied_data_structures/assign4"
+			"value" : "/home/khalil/Desktop/courses/applied_data_structures/AppliedDataStructuresAssignmnent5/assign4"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1147,7 +1147,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/khalil/Desktop/courses/applied_data_structures/assign4/cmake-build-debug"
+			"value" : "/home/khalil/Desktop/courses/applied_data_structures/AppliedDataStructuresAssignmnent5/assign4/cmake-build-debug"
 		},
 		{
 			"name" : "assign4_IS_TOP_LEVEL",
@@ -1171,7 +1171,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/khalil/Desktop/courses/applied_data_structures/assign4"
+			"value" : "/home/khalil/Desktop/courses/applied_data_structures/AppliedDataStructuresAssignmnent5/assign4"
 		}
 	],
 	"kind" : "cache",

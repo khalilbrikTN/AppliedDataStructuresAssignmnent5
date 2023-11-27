@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /app/extra/clion/bin/cmake/linux/x64/bin/cmake --regenerate-during-build -S/home/khalil/Desktop/courses/applied_data_structures/assign4 -B/home/khalil/Desktop/courses/applied_data_structures/assign4/cmake-build-debug
+  command = /app/extra/clion/bin/cmake/linux/x64/bin/cmake --regenerate-during-build -S/home/khalil/Desktop/courses/applied_data_structures/AppliedDataStructuresAssignmnent5/assign4 -B/home/khalil/Desktop/courses/applied_data_structures/AppliedDataStructuresAssignmnent5/assign4/cmake-build-debug
   description = Re-running CMake...
   generator = 1
 
